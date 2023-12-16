@@ -1,2 +1,2 @@
-Task-2(landing page)
+Task-2(Calculator))
 Adhiraj Singh 
